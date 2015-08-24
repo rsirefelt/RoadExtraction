@@ -1,0 +1,9 @@
+C:\Users\Rickard\Google Drive\RoadDetection\RoadDetection\bin\Debug\ArtificialNeuralNetworkLibrary.dll
+C:\Users\Rickard\Google Drive\RoadDetection\RoadDetection\bin\Debug\MiscLibrary.dll
+C:\Users\Rickard\Google Drive\RoadDetection\RoadDetection\bin\Debug\ArtificialNeuralNetworkLibrary.pdb
+C:\Users\Rickard\Google Drive\RoadDetection\RoadDetection\bin\Debug\MiscLibrary.pdb
+C:\Users\Rickard\Google Drive\RoadDetection\RoadDetection\bin\Debug\SKYNET.exe
+C:\Users\Rickard\Google Drive\RoadDetection\RoadDetection\bin\Debug\SKYNET.pdb
+C:\Users\Rickard\Google Drive\RoadDetection\RoadDetection\obj\Debug\SKYNET.exe
+C:\Users\Rickard\Google Drive\RoadDetection\RoadDetection\obj\Debug\SKYNET.pdb
+C:\Users\Rickard\Google Drive\RoadDetection\RoadDetection\obj\Debug\SKYNET.csprojResolveAssemblyReference.cache

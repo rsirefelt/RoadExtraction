@@ -1,0 +1,40 @@
+C:\Users\Rickard\documents\visual studio 2013\Projects\ArtificialNeuralNetworkV2\ArtificialNeuralNetworkLibrary\obj\Release\ArtificialNeuralNetworkLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Rickard\documents\visual studio 2013\Projects\ArtificialNeuralNetworkV2\ArtificialNeuralNetworkLibrary\bin\Release\ArtificialNeuralNetworkLibrary.dll
+C:\Users\Rickard\documents\visual studio 2013\Projects\ArtificialNeuralNetworkV2\ArtificialNeuralNetworkLibrary\bin\Release\ArtificialNeuralNetworkLibrary.pdb
+C:\Users\Rickard\documents\visual studio 2013\Projects\ArtificialNeuralNetworkV2\ArtificialNeuralNetworkLibrary\obj\Release\ArtificialNeuralNetworkLibrary.dll
+C:\Users\Rickard\documents\visual studio 2013\Projects\ArtificialNeuralNetworkV2\ArtificialNeuralNetworkLibrary\obj\Release\ArtificialNeuralNetworkLibrary.pdb
+C:\Users\Rickard\Documents\Visual Studio 2013\Projects\RoadDetection\ArtificialNeuralNetworkLibrary\obj\Release\ArtificialNeuralNetworkLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Rickard\Documents\Visual Studio 2013\Projects\RoadDetection\ArtificialNeuralNetworkLibrary\obj\Release\ArtificialNeuralNetworkLibrary.dll
+C:\Users\Rickard\Documents\Visual Studio 2013\Projects\RoadDetection\ArtificialNeuralNetworkLibrary\obj\Release\ArtificialNeuralNetworkLibrary.pdb
+C:\Users\Rickard\Documents\Visual Studio 2013\Projects\RoadDetection\ArtificialNeuralNetworkLibrary\bin\Release\ArtificialNeuralNetworkLibrary.dll
+C:\Users\Rickard\Documents\Visual Studio 2013\Projects\RoadDetection\ArtificialNeuralNetworkLibrary\bin\Release\ArtificialNeuralNetworkLibrary.pdb
+C:\Users\Rickard\Documents\Visual Studio 2013\Projects\RoadDetection\ArtificialNeuralNetworkLibrary\bin\Release\MiscLibrary.dll
+C:\Users\Rickard\Documents\Visual Studio 2013\Projects\RoadDetection\ArtificialNeuralNetworkLibrary\bin\Release\MiscLibrary.pdb
+C:\Users\Rickard\Google Drive\RoadDetection\ArtificialNeuralNetworkLibrary\bin\Release\ArtificialNeuralNetworkLibrary.dll
+C:\Users\Rickard\Google Drive\RoadDetection\ArtificialNeuralNetworkLibrary\bin\Release\ArtificialNeuralNetworkLibrary.pdb
+C:\Users\Rickard\Google Drive\RoadDetection\ArtificialNeuralNetworkLibrary\bin\Release\MiscLibrary.dll
+C:\Users\Rickard\Google Drive\RoadDetection\ArtificialNeuralNetworkLibrary\bin\Release\MiscLibrary.pdb
+C:\Users\Rickard\Google Drive\RoadDetection\ArtificialNeuralNetworkLibrary\obj\Release\ArtificialNeuralNetworkLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Rickard\Google Drive\RoadDetection\ArtificialNeuralNetworkLibrary\obj\Release\ArtificialNeuralNetworkLibrary.dll
+C:\Users\Rickard\Google Drive\RoadDetection\ArtificialNeuralNetworkLibrary\obj\Release\ArtificialNeuralNetworkLibrary.pdb
+C:\Users\Rickard\OneDrive\RoadDetection\ArtificialNeuralNetworkLibrary\bin\Release\ArtificialNeuralNetworkLibrary.dll
+C:\Users\Rickard\OneDrive\RoadDetection\ArtificialNeuralNetworkLibrary\bin\Release\ArtificialNeuralNetworkLibrary.pdb
+C:\Users\Rickard\OneDrive\RoadDetection\ArtificialNeuralNetworkLibrary\bin\Release\MiscLibrary.dll
+C:\Users\Rickard\OneDrive\RoadDetection\ArtificialNeuralNetworkLibrary\bin\Release\MiscLibrary.pdb
+C:\Users\Rickard\OneDrive\RoadDetection\ArtificialNeuralNetworkLibrary\obj\Release\ArtificialNeuralNetworkLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Rickard\OneDrive\RoadDetection\ArtificialNeuralNetworkLibrary\obj\Release\ArtificialNeuralNetworkLibrary.dll
+C:\Users\Rickard\OneDrive\RoadDetection\ArtificialNeuralNetworkLibrary\obj\Release\ArtificialNeuralNetworkLibrary.pdb
+C:\Users\Rickard\Google Drive\SKYNET\ArtificialNeuralNetworkLibrary\bin\Release\ArtificialNeuralNetworkLibrary.dll
+C:\Users\Rickard\Google Drive\SKYNET\ArtificialNeuralNetworkLibrary\bin\Release\ArtificialNeuralNetworkLibrary.pdb
+C:\Users\Rickard\Google Drive\SKYNET\ArtificialNeuralNetworkLibrary\bin\Release\MiscLibrary.dll
+C:\Users\Rickard\Google Drive\SKYNET\ArtificialNeuralNetworkLibrary\bin\Release\MiscLibrary.pdb
+C:\Users\Rickard\Google Drive\SKYNET\ArtificialNeuralNetworkLibrary\obj\Release\ArtificialNeuralNetworkLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Rickard\Google Drive\SKYNET\ArtificialNeuralNetworkLibrary\obj\Release\ArtificialNeuralNetworkLibrary.dll
+C:\Users\Rickard\Google Drive\SKYNET\ArtificialNeuralNetworkLibrary\obj\Release\ArtificialNeuralNetworkLibrary.pdb
+C:\Users\Rickard\Google Drive\RoadExtraction\ArtificialNeuralNetworkLibrary\bin\Release\ArtificialNeuralNetworkLibrary.dll
+C:\Users\Rickard\Google Drive\RoadExtraction\ArtificialNeuralNetworkLibrary\bin\Release\ArtificialNeuralNetworkLibrary.pdb
+C:\Users\Rickard\Google Drive\RoadExtraction\ArtificialNeuralNetworkLibrary\bin\Release\MiscLibrary.dll
+C:\Users\Rickard\Google Drive\RoadExtraction\ArtificialNeuralNetworkLibrary\bin\Release\MiscLibrary.pdb
+C:\Users\Rickard\Google Drive\RoadExtraction\ArtificialNeuralNetworkLibrary\obj\Release\ArtificialNeuralNetworkLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Rickard\Google Drive\RoadExtraction\ArtificialNeuralNetworkLibrary\obj\Release\ArtificialNeuralNetworkLibrary.dll
+C:\Users\Rickard\Google Drive\RoadExtraction\ArtificialNeuralNetworkLibrary\obj\Release\ArtificialNeuralNetworkLibrary.pdb
