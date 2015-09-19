@@ -17,3 +17,8 @@ C:\Users\Rickard\Google Drive\SKYNET\MiscLibrary\bin\Release\MiscLibrary.pdb
 C:\Users\Rickard\Google Drive\SKYNET\MiscLibrary\obj\Release\MiscLibrary.csprojResolveAssemblyReference.cache
 C:\Users\Rickard\Google Drive\SKYNET\MiscLibrary\obj\Release\MiscLibrary.dll
 C:\Users\Rickard\Google Drive\SKYNET\MiscLibrary\obj\Release\MiscLibrary.pdb
+C:\Users\Rickard\Documents\GitHub\RoadExtraction\RoadExtraction\MiscLibrary\bin\Release\MiscLibrary.dll
+C:\Users\Rickard\Documents\GitHub\RoadExtraction\RoadExtraction\MiscLibrary\bin\Release\MiscLibrary.pdb
+C:\Users\Rickard\Documents\GitHub\RoadExtraction\RoadExtraction\MiscLibrary\obj\Release\MiscLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Rickard\Documents\GitHub\RoadExtraction\RoadExtraction\MiscLibrary\obj\Release\MiscLibrary.dll
+C:\Users\Rickard\Documents\GitHub\RoadExtraction\RoadExtraction\MiscLibrary\obj\Release\MiscLibrary.pdb

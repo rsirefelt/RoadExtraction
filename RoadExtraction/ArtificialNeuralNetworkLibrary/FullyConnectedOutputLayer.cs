@@ -46,8 +46,8 @@ namespace ArtificialNeuralNetworkLibrary
       this.lossFunction = lossFunction.ToLower();
       
       this.fanIn = this.inputDim * this.inputDim * this.inputDepthDim;
-      this.initialDeltas = MiscLibrary.Initialize.AllocateDouble(this.nrOfOutputs);
-      this.propagatedDeltas = MiscLibrary.Initialize.AllocateDouble(this.inputDim, this.inputDim, this.inputDepthDim);
+      this.initialDeltas = MiscLibrary.Initialize.Allocate<double>(this.nrOfOutputs);
+      this.propagatedDeltas = MiscLibrary.Initialize.Allocate<double>(this.inputDim, this.inputDim, this.inputDepthDim);
     }
 
 

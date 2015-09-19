@@ -31,7 +31,7 @@ namespace MiscLibrary
       int width = bitmap.Width;
       int height = bitmap.Height;
 
-      pixelValues = MiscLibrary.Initialize.AllocateByte(width, height, NR_OF_PIXEL_CHANNELS);
+      pixelValues = MiscLibrary.Initialize.Allocate<Byte>(width, height, NR_OF_PIXEL_CHANNELS);
 
       BitmapData bitmapData = bitmap.LockBits(
                  new Rectangle(0, 0, width, height),
@@ -66,7 +66,7 @@ namespace MiscLibrary
       int width = bitmap.Width;
       int height = bitmap.Height;
 
-      pixelValues = MiscLibrary.Initialize.AllocateByte(width, height, NR_OF_PIXEL_CHANNELS);
+      pixelValues = MiscLibrary.Initialize.Allocate<Byte>(width, height, NR_OF_PIXEL_CHANNELS);
 
       BitmapData bitmapData = bitmap.LockBits(
                  new Rectangle(0, 0, width, height),
@@ -274,7 +274,7 @@ namespace MiscLibrary
       int nrOfChannels = 3; // RGB
       int inputRowInd, inputColInd;
       
-      double[][][] imagePatch = MiscLibrary.Initialize.AllocateDouble(patchDim, patchDim, nrOfChannels);
+      double[][][] imagePatch = MiscLibrary.Initialize.Allocate<double>(patchDim, patchDim, nrOfChannels);
 
       for (int i = 0; i < patchDim; ++i) {
         inputRowInd = i + startIndRow;

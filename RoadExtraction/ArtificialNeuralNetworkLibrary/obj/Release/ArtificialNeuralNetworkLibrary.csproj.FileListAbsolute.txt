@@ -38,3 +38,10 @@ C:\Users\Rickard\Google Drive\RoadExtraction\ArtificialNeuralNetworkLibrary\bin\
 C:\Users\Rickard\Google Drive\RoadExtraction\ArtificialNeuralNetworkLibrary\obj\Release\ArtificialNeuralNetworkLibrary.csprojResolveAssemblyReference.cache
 C:\Users\Rickard\Google Drive\RoadExtraction\ArtificialNeuralNetworkLibrary\obj\Release\ArtificialNeuralNetworkLibrary.dll
 C:\Users\Rickard\Google Drive\RoadExtraction\ArtificialNeuralNetworkLibrary\obj\Release\ArtificialNeuralNetworkLibrary.pdb
+C:\Users\Rickard\Documents\GitHub\RoadExtraction\RoadExtraction\ArtificialNeuralNetworkLibrary\bin\Release\ArtificialNeuralNetworkLibrary.dll
+C:\Users\Rickard\Documents\GitHub\RoadExtraction\RoadExtraction\ArtificialNeuralNetworkLibrary\bin\Release\ArtificialNeuralNetworkLibrary.pdb
+C:\Users\Rickard\Documents\GitHub\RoadExtraction\RoadExtraction\ArtificialNeuralNetworkLibrary\bin\Release\MiscLibrary.dll
+C:\Users\Rickard\Documents\GitHub\RoadExtraction\RoadExtraction\ArtificialNeuralNetworkLibrary\bin\Release\MiscLibrary.pdb
+C:\Users\Rickard\Documents\GitHub\RoadExtraction\RoadExtraction\ArtificialNeuralNetworkLibrary\obj\Release\ArtificialNeuralNetworkLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Rickard\Documents\GitHub\RoadExtraction\RoadExtraction\ArtificialNeuralNetworkLibrary\obj\Release\ArtificialNeuralNetworkLibrary.dll
+C:\Users\Rickard\Documents\GitHub\RoadExtraction\RoadExtraction\ArtificialNeuralNetworkLibrary\obj\Release\ArtificialNeuralNetworkLibrary.pdb

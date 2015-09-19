@@ -25,3 +25,12 @@ C:\Users\Rickard\Google Drive\RoadExtraction\RoadExtraction\bin\Release\MiscLibr
 C:\Users\Rickard\Google Drive\RoadExtraction\RoadExtraction\obj\Release\RoadExtraction.csprojResolveAssemblyReference.cache
 C:\Users\Rickard\Google Drive\RoadExtraction\RoadExtraction\obj\Release\RoadExtraction.exe
 C:\Users\Rickard\Google Drive\RoadExtraction\RoadExtraction\obj\Release\RoadExtraction.pdb
+C:\Users\Rickard\Documents\GitHub\RoadExtraction\RoadExtraction\RoadExtraction\bin\Release\RoadExtraction.exe
+C:\Users\Rickard\Documents\GitHub\RoadExtraction\RoadExtraction\RoadExtraction\bin\Release\RoadExtraction.pdb
+C:\Users\Rickard\Documents\GitHub\RoadExtraction\RoadExtraction\RoadExtraction\bin\Release\ArtificialNeuralNetworkLibrary.dll
+C:\Users\Rickard\Documents\GitHub\RoadExtraction\RoadExtraction\RoadExtraction\bin\Release\MiscLibrary.dll
+C:\Users\Rickard\Documents\GitHub\RoadExtraction\RoadExtraction\RoadExtraction\bin\Release\ArtificialNeuralNetworkLibrary.pdb
+C:\Users\Rickard\Documents\GitHub\RoadExtraction\RoadExtraction\RoadExtraction\bin\Release\MiscLibrary.pdb
+C:\Users\Rickard\Documents\GitHub\RoadExtraction\RoadExtraction\RoadExtraction\obj\Release\RoadExtraction.csprojResolveAssemblyReference.cache
+C:\Users\Rickard\Documents\GitHub\RoadExtraction\RoadExtraction\RoadExtraction\obj\Release\RoadExtraction.exe
+C:\Users\Rickard\Documents\GitHub\RoadExtraction\RoadExtraction\RoadExtraction\obj\Release\RoadExtraction.pdb

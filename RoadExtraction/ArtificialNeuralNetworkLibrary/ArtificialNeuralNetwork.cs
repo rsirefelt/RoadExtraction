@@ -85,16 +85,16 @@ namespace ArtificialNeuralNetworkLibrary
       convolutionalLayer = new ConvolutionalLayer(inputDim, inputDepthDim, activationFunction, nrOfFilters, filterDim, filterStride);
       
       int featureMapDim = (inputDim - filterDim) / filterStride + 1;
-      this.neuronsConvLayer = MiscLibrary.Initialize.AllocateDouble(featureMapDim, featureMapDim, nrOfFilters);
+      this.neuronsConvLayer = MiscLibrary.Initialize.Allocate<double>(featureMapDim, featureMapDim, nrOfFilters);
 
-      this.weights[CONV_LAYER_IND] = MiscLibrary.Initialize.AllocateDouble(nrOfFilters, filterDim, filterDim, inputDepthDim);
-      this.weightChanges[CONV_LAYER_IND] = MiscLibrary.Initialize.AllocateDouble(nrOfFilters, filterDim, filterDim, inputDepthDim);
-      this.weightGradients[CONV_LAYER_IND] = MiscLibrary.Initialize.AllocateDouble(nrOfFilters, filterDim, filterDim, inputDepthDim);
+      this.weights[CONV_LAYER_IND] = MiscLibrary.Initialize.Allocate<double>(nrOfFilters, filterDim, filterDim, inputDepthDim);
+      this.weightChanges[CONV_LAYER_IND] = MiscLibrary.Initialize.Allocate<double>(nrOfFilters, filterDim, filterDim, inputDepthDim);
+      this.weightGradients[CONV_LAYER_IND] = MiscLibrary.Initialize.Allocate<double>(nrOfFilters, filterDim, filterDim, inputDepthDim);
       MiscLibrary.Initialize.SetToZero(this.weightChanges[CONV_LAYER_IND]);
 
-      this.biases[CONV_LAYER_IND] = MiscLibrary.Initialize.AllocateDouble(nrOfFilters);
-      this.biasChanges[CONV_LAYER_IND] = MiscLibrary.Initialize.AllocateDouble(nrOfFilters);
-      this.biasGradients[CONV_LAYER_IND] = MiscLibrary.Initialize.AllocateDouble(nrOfFilters);
+      this.biases[CONV_LAYER_IND] = MiscLibrary.Initialize.Allocate<double>(nrOfFilters);
+      this.biasChanges[CONV_LAYER_IND] = MiscLibrary.Initialize.Allocate<double>(nrOfFilters);
+      this.biasGradients[CONV_LAYER_IND] = MiscLibrary.Initialize.Allocate<double>(nrOfFilters);
       MiscLibrary.Initialize.SetToZero(this.biasChanges[CONV_LAYER_IND]);
     }
 
@@ -112,16 +112,16 @@ namespace ArtificialNeuralNetworkLibrary
       outputLayer = new FullyConnectedOutputLayer(inputDim, inputDepthDim, activationFunction, outputDim, lossFunction);
 
       int nrOfOutputs = outputDim * outputDim;
-      this.neuronsOutputLayer = MiscLibrary.Initialize.AllocateDouble(nrOfOutputs);
+      this.neuronsOutputLayer = MiscLibrary.Initialize.Allocate<double>(nrOfOutputs);
 
-      this.weights[OUTPUT_LAYER_IND] = MiscLibrary.Initialize.AllocateDouble(nrOfOutputs, inputDim, inputDim, inputDepthDim);
-      this.weightChanges[OUTPUT_LAYER_IND] = MiscLibrary.Initialize.AllocateDouble(nrOfOutputs, inputDim, inputDim, inputDepthDim);
-      this.weightGradients[OUTPUT_LAYER_IND] = MiscLibrary.Initialize.AllocateDouble(nrOfOutputs, inputDim, inputDim, inputDepthDim);
+      this.weights[OUTPUT_LAYER_IND] = MiscLibrary.Initialize.Allocate<double>(nrOfOutputs, inputDim, inputDim, inputDepthDim);
+      this.weightChanges[OUTPUT_LAYER_IND] = MiscLibrary.Initialize.Allocate<double>(nrOfOutputs, inputDim, inputDim, inputDepthDim);
+      this.weightGradients[OUTPUT_LAYER_IND] = MiscLibrary.Initialize.Allocate<double>(nrOfOutputs, inputDim, inputDim, inputDepthDim);
       MiscLibrary.Initialize.SetToZero(this.weightChanges[OUTPUT_LAYER_IND]);
 
-      this.biases[OUTPUT_LAYER_IND] = MiscLibrary.Initialize.AllocateDouble(nrOfOutputs);
-      this.biasChanges[OUTPUT_LAYER_IND] = MiscLibrary.Initialize.AllocateDouble(nrOfOutputs);
-      this.biasGradients[OUTPUT_LAYER_IND] = MiscLibrary.Initialize.AllocateDouble(nrOfOutputs);
+      this.biases[OUTPUT_LAYER_IND] = MiscLibrary.Initialize.Allocate<double>(nrOfOutputs);
+      this.biasChanges[OUTPUT_LAYER_IND] = MiscLibrary.Initialize.Allocate<double>(nrOfOutputs);
+      this.biasGradients[OUTPUT_LAYER_IND] = MiscLibrary.Initialize.Allocate<double>(nrOfOutputs);
       MiscLibrary.Initialize.SetToZero(this.biasChanges[OUTPUT_LAYER_IND]);
     }
     #endregion
@@ -726,7 +726,7 @@ namespace ArtificialNeuralNetworkLibrary
     /// <returns></returns>
     private byte[][][] ReshapeOutputPatchesToPixelValues(List<byte[]> outputMiniBatch, int outputImageHeight, int outputImageWidth)
     {
-      byte[][][] pixelValues = MiscLibrary.Initialize.AllocateByte(outputImageHeight, outputImageWidth, NR_OF_PIXEL_CHANNELS);
+      byte[][][] pixelValues = MiscLibrary.Initialize.Allocate<Byte>(outputImageHeight, outputImageWidth, NR_OF_PIXEL_CHANNELS);
 
       int redPixelChannel = 0, greenPixelChannel = 1, bluePixelChannel = 2;
       int batchInd, rowInd, colInd, batchPixelInd;
